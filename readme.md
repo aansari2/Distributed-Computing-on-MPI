@@ -1,5 +1,7 @@
 Code Author : Adil Ansari
 
+![Image of Visualization](https://github.com/aansari2/Distributed-Computing-on-MPI/blob/master/visualization.png)
+
 The command 'make' should compile both the mpi and coarray
 programs but intel mpi must be loaded and coarray must be 
 set to core count as as follows:
